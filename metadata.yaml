@@ -1,0 +1,29 @@
+_repo: Taxidermy_29691
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pray, Leon Luther
+    birthdate: 1882
+    gutenberg_agent_id: '34090'
+    url: http://www.gutenberg.org/2009/agents/34090
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Trapping
+- Crafts
+gutenberg_issued: '2009-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29691'
+  lccn: '13022268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Taxidermy'
+- !lcc 'QL'
+title: Taxidermy
+url: http://www.gutenberg.org/ebooks/29691
